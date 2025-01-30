@@ -13,13 +13,13 @@ function App() {
 }
 
 function Counter() {
-  return (
+  return 
     <div>
       <CurrentCount />
       <IncreaseCount />
       <DecreaseCount />
     </div>
-  )
+  
 }
 
 function CurrentCount() {
