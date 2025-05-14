@@ -40,3 +40,28 @@ reactWithRecoil/
 │   └── index.js
 ├── package.json
 └── README.md
+🚀 Getting Started
+Prerequisites
+Make sure you have the following installed:
+
+Node.js (v14 or higher)
+
+npm or yarn
+
+Installation
+bash
+Copy
+Edit
+git clone https://github.com/aviralshukla-06/reactWithRecoil.git
+cd reactWithRecoil
+npm install
+# or
+yarn install
+Run the App
+bash
+Copy
+Edit
+npm start
+# or
+yarn start
+The app will run locally at http://localhost:3000
