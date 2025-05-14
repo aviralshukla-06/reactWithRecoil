@@ -65,3 +65,24 @@ npm start
 # or
 yarn start
 The app will run locally at http://localhost:3000
+
+🧠 Recoil Concepts Used
+Atoms: Basic units of state
+
+Selectors: Derived/computed state
+
+Hooks: useRecoilState, useRecoilValue, useSetRecoilState
+
+📌 Example Use Cases
+Toggling dark/light mode using atoms
+
+Synchronized input fields
+
+Derived state using selectors (e.g., filtering lists, calculating values)
+
+Async selectors for API-based state
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+Feel free to fork this repo and submit a pull request.
