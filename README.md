@@ -2,6 +2,7 @@
 
 To make our front-end more robust and to manage states more geniunely we have introduced here a popular state management tool 
 <b> Recoil</b>
+
 This project demonstrates how to use Recoil for state management in a React application. Recoil is a state management library that provides a clean and scalable way to manage complex state logic in React apps.
 
 📦 Features
